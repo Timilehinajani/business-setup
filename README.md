@@ -10,15 +10,15 @@ Bach, CEO
 Gozie, IT intern
 Ogochukwu, Finance Manager 
  # groups
- 1. xecutive/Leadership:
-		CEO
-2. Administrative/Support Functions:
-		Human Resource Manager
-		Legal
-3. Finance and Strategy:
-		Finance Manager
-		Business Strategist
-4. Sales and Marketing:
-		Sales Manager
-5. Information Technology (IT):
-		System Ad
+executive/Leadership:
+CEO
+Administrative/Support Functions:
+Human Resource Manager 
+Legal
+Finance and Strategy:
+Finance Manager 
+business Strategist
+Sales and Marketing:
+Sales Manager
+Information Technology (IT):
+System Administrator
