@@ -3,22 +3,25 @@ In this repository, users, groups, and directories were created for a small busi
 # users
 •Andrew, System Administrator
 •Julius, Legal
-Chizi, Human Resource Manager
-Jeniffer, Sales Manager
-Adeola, Business Strategist
-Bach, CEO
-Gozie, IT intern
-Ogochukwu, Finance Manager 
+•Chizi, Human Resource Manager
+•Jeniffer, Sales Manager
+•Adeola, Business Strategist
+•Bach, CEO
+•Gozie, IT intern
+•Ogochukwu, Finance Manager 
  # groups
-executive/Leadership:
+•executive/Leadership:
 CEO
-Administrative/Support Functions:
-Human Resource Manager 
+•Administrative/Support Functions:
+Human Resource Manager,
 Legal
-Finance and Strategy:
-Finance Manager 
+•Finance and Strategy:
+Finance Manager, 
 business Strategist
-Sales and Marketing:
+•Sales and Marketing:
 Sales Manager
-Information Technology (IT):
-System Administrator
+•Information Technology (IT):
+System Administrator,
+IT intern
+
+
