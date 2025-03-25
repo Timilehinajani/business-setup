@@ -1,4 +1,4 @@
-# business-setup
+# BUSINESS-SETUP
 In this repository, users, groups, and directories were created for a small business. Additionally, ownership was reassigned, and appropriate access rights were granted to the relevant groups. The commands used to accomplish these tasks are outlined below.
 # Users:
 •Andrew, System Administrator
