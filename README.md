@@ -23,5 +23,48 @@ Sales Manager
 •Information Technology (IT):
 System Administrator,
 IT intern
+# company documents(directories)
+•Finance Budgets
+•Contract Documents
+•Business Projections
+•Business Models
+•Employee Data
+•Company Vision and Mission Statement
+•Server Configuration Script
+
+# adding users
+this was done using the adduser command(adduser username), as seen below
+
+adduser andrew
+adduser julius
+adduser chizi
+adduser jeniffer
+adduser adeola
+adduser bach
+adduser gozie
+adduser ogochukwu
+
+# adding groups
+this was done using the addgroup command(addgroup groupname), as seen below
+
+addgroup executive
+addgroup administrative
+addgroup finance and strategy
+addgroup sales and marketing 
+addgroup information technology
+
+# creating directories
+this was done using the mkdir command(mkdir company douments), as seen below
+
+mkdir Finance_Budgets
+mkdir Contract_Documents
+mkdir Business_Projections
+mkdir Business_Models
+mkdir Employee_Data
+mkdir Company_Vision_and_Mission_Statement
+mkdir Server_Configuration_Script
+
+
+
 
 
